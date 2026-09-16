@@ -1,0 +1,6 @@
+{
+  "name": "Zenith",
+  "description": "NEET, JEE and MHT-CET Mock Test & Preparation Application featuring NTA CBT timed exams, syllabus & chapter drills, detailed analytics, and question banks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

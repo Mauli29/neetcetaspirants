@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Upward Academic Chevron / Crest -->
+    <path
+        android:fillColor="#82F5C1"
+        android:pathData="M54,26 L76,46 L70,51 L54,36 L38,51 L32,46 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 L72,50 L68,54 L54,42 L40,54 L36,50 Z" />
+
+    <!-- Open Book -->
+    <!-- Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,56 C44,53 36,54 32,56 L32,74 C36,72 44,71 52,74 Z" />
+    <!-- Right Page -->
+    <path
+        android:fillColor="#DDE1FF"
+        android:pathData="M56,56 C64,53 72,54 76,56 L76,74 C72,72 64,71 56,74 Z" />
+
+    <!-- Atom Orbit Ring Accent (Science / Engineering) -->
+    <path
+        android:strokeColor="#85F8C4"
+        android:strokeWidth="1.8"
+        android:fillColor="#00000000"
+        android:pathData="M34,65 C34,58 74,58 74,65 C74,72 34,72 34,65 Z" />
+
+    <!-- Center Nucleus / Star of Excellence -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,62 L55.5,64.5 L58,65 L56,67 L56.5,69.5 L54,68 L51.5,69.5 L52,67 L50,65 L52.5,64.5 Z" />
+</vector>
